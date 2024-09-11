@@ -1,4 +1,4 @@
-# HelpHairProject
+# Help Hair Project
 
 ## **Transforme a Saúde Capilar com Inovação Digital!**
 
