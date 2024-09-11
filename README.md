@@ -45,6 +45,8 @@ Estamos apenas começando! Novas funcionalidades e melhorias estão a caminho pa
 
 Fique atento às próximas atualizações e veja como o **HelpHairProject** pode transformar a forma como você cuida da saúde capilar!
 
+**Acompanhe nosso progresso** e fique atento às **novidades incríveis** que estão por vir!
+
 ---
 
 ### Tecnologias Utilizadas
@@ -126,8 +128,6 @@ HelpHairProject/
     │   └── main.js           # Ponto de entrada
     └── quasar.conf.js        # Configuração do Quasar Framework
 ```
-
-**Acompanhe nosso progresso** e fique atento às **novidades incríveis** que estão por vir!
 
 ---
 
