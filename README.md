@@ -1,30 +1,30 @@
-# Help Hair Project
+## Help Hair Project
 
-## **Transforme a Saúde Capilar com Inovação Digital!**
+### **Transforme a Saúde Capilar com Inovação Digital!**
 
 O **Help Hair** é uma plataforma inovadora que visa revolucionar a forma como as pessoas cuidam da saúde capilar, proporcionando soluções digitais acessíveis e eficientes. Com uma aplicação disponível em **web**, **mobile** e **desktop**, nossa missão é entregar uma experiência completa e integrada para usuários e profissionais do setor capilar. HelpHairProject é uma aplicação completa voltada para gerenciamento de informações relacionadas à saúde capilar. O projeto é desenvolvido utilizando **Python** para o backend e **Vue.js** no frontend, sendo projetado para ser hospedado no **Heroku**.
 
-## Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
-### Backend (API)
+#### Backend (API)
 - **Linguagem**: Python
 - **Frameworks**: Flask ou FastAPI
 - **Banco de Dados**: PostgreSQL (Hospedado no Heroku)
 - **ORM**: SQLAlchemy (ou Django ORM se usar Django)
 - **Testes**: Pytest
 
-### Frontend
+#### Frontend
 - **Web**: Vue.js (SPA)
 - **Mobile**: Quasar Framework (Vue.js) para Android/iOS
 - **Desktop**: Electron + Vue.js
 
-### Hospedagem
+#### Hospedagem
 - **Backend**: Heroku
 - **Frontend Web**: Heroku ou Netlify (opcional)
 - **Mobile**: Compilado para Android/iOS usando Capacitor/Cordova
 - **Desktop**: Empacotado com Electron para Windows, macOS e Linux
 
-## Estrutura do Projeto
+### Estrutura do Projeto
 
 ```bash
 HelpHairProject/
@@ -107,7 +107,7 @@ HelpHairProject/
 
 ---
 
-## **Atualizações em Breve! 🚀**
+### **Atualizações em Breve! 🚀**
 
 Estamos apenas começando! Novas funcionalidades e melhorias estão a caminho para tornar o **HelpHairProject** ainda mais poderoso. Entre as próximas atualizações, você pode esperar:
 
@@ -121,7 +121,7 @@ Fique atento às próximas atualizações e veja como o **HelpHairProject** pode
 
 ---
 
-## **Interessado? Junte-se a nós!**
+### **Interessado? Junte-se a nós!**
 
 Estamos sempre abertos a feedbacks e sugestões! Se você quer contribuir com o projeto ou tem ideias para melhorar, sinta-se à vontade para entrar em contato ou abrir uma issue. Queremos construir uma plataforma que realmente faça a diferença na vida das pessoas, e você pode fazer parte disso!
 
