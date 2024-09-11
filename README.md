@@ -47,12 +47,6 @@ Fique atento às próximas atualizações e veja como o **HelpHairProject** pode
 
 ---
 
-### **Interessado? Junte-se a nós!**
-
-Estamos sempre abertos a feedbacks e sugestões! Se você quer contribuir com o projeto ou tem ideias para melhorar, sinta-se à vontade para entrar em contato ou abrir uma issue. Queremos construir uma plataforma que realmente faça a diferença na vida das pessoas, e você pode fazer parte disso!
-
----
-
 ### Tecnologias Utilizadas
 
 #### Backend (API)
@@ -134,3 +128,9 @@ HelpHairProject/
 ```
 
 **Acompanhe nosso progresso** e fique atento às **novidades incríveis** que estão por vir!
+
+---
+
+### **Interessado? Junte-se a nós!**
+
+Estamos sempre abertos a feedbacks e sugestões! Se você quer contribuir com o projeto ou tem ideias para melhorar, sinta-se à vontade para entrar em contato ou abrir uma issue. Queremos construir uma plataforma que realmente faça a diferença na vida das pessoas, e você pode fazer parte disso!
