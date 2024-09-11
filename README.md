@@ -2,7 +2,7 @@
 
 ## **Transforme a Saúde Capilar com Inovação Digital!**
 
-O **HelpHairProject** é uma plataforma inovadora que visa revolucionar a forma como as pessoas cuidam da saúde capilar, proporcionando soluções digitais acessíveis e eficientes. Com uma aplicação disponível em **web**, **mobile** e **desktop**, nossa missão é entregar uma experiência completa e integrada para usuários e profissionais do setor capilar. HelpHairProject é uma aplicação completa voltada para gerenciamento de informações relacionadas à saúde capilar. O projeto é desenvolvido utilizando **Python** para o backend e **Vue.js** no frontend, sendo projetado para ser hospedado no **Heroku**.
+O **Help Hair** é uma plataforma inovadora que visa revolucionar a forma como as pessoas cuidam da saúde capilar, proporcionando soluções digitais acessíveis e eficientes. Com uma aplicação disponível em **web**, **mobile** e **desktop**, nossa missão é entregar uma experiência completa e integrada para usuários e profissionais do setor capilar. HelpHairProject é uma aplicação completa voltada para gerenciamento de informações relacionadas à saúde capilar. O projeto é desenvolvido utilizando **Python** para o backend e **Vue.js** no frontend, sendo projetado para ser hospedado no **Heroku**.
 
 ## Tecnologias Utilizadas
 
