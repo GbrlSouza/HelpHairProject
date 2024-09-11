@@ -22,6 +22,12 @@ O **Help Hair** é uma plataforma inovadora que visa revolucionar a forma como a
 
 ---
 
+### **Interessado? Junte-se a nós!**
+
+Estamos sempre abertos a feedbacks e sugestões! Se você quer contribuir com o projeto ou tem ideias para melhorar, sinta-se à vontade para entrar em contato ou abrir uma issue. Queremos construir uma plataforma que realmente faça a diferença na vida das pessoas, e você pode fazer parte disso!
+
+---
+
 ### **Funcionalidades Principais**
 
 - Registro e acompanhamento de tratamentos capilares
@@ -128,9 +134,3 @@ HelpHairProject/
     │   └── main.js           # Ponto de entrada
     └── quasar.conf.js        # Configuração do Quasar Framework
 ```
-
----
-
-### **Interessado? Junte-se a nós!**
-
-Estamos sempre abertos a feedbacks e sugestões! Se você quer contribuir com o projeto ou tem ideias para melhorar, sinta-se à vontade para entrar em contato ou abrir uma issue. Queremos construir uma plataforma que realmente faça a diferença na vida das pessoas, e você pode fazer parte disso!
