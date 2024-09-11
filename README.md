@@ -1,8 +1,57 @@
 ## Help Hair Project
 
+---
+
 ### **Transforme a Saúde Capilar com Inovação Digital!**
 
 O **Help Hair** é uma plataforma inovadora que visa revolucionar a forma como as pessoas cuidam da saúde capilar, proporcionando soluções digitais acessíveis e eficientes. Com uma aplicação disponível em **web**, **mobile** e **desktop**, nossa missão é entregar uma experiência completa e integrada para usuários e profissionais do setor capilar. HelpHairProject é uma aplicação completa voltada para gerenciamento de informações relacionadas à saúde capilar. O projeto é desenvolvido utilizando **Python** para o backend e **Vue.js** no frontend, sendo projetado para ser hospedado no **Heroku**.
+
+---
+
+### **Por que escolher o HelpHairProject?**
+
+1. **Acesso em Múltiplas Plataformas**: Com versões para web, dispositivos móveis (Android e iOS) e desktop, você pode acessar suas informações de saúde capilar a qualquer momento, em qualquer lugar.
+   
+2. **Gestão Personalizada de Dados de Saúde Capilar**: O sistema permite que os usuários acompanhem o progresso de seus cuidados capilares, registrem consultas e sigam recomendações personalizadas com base no histórico de saúde.
+
+3. **Plataforma para Profissionais**: Profissionais do setor capilar podem utilizar a ferramenta para acompanhar clientes, sugerir tratamentos e monitorar a evolução de cada caso de forma fácil e eficiente.
+
+4. **Segurança e Confiabilidade**: Utilizamos o **PostgreSQL** como banco de dados para garantir segurança e escalabilidade, tudo hospedado de forma confiável no **Heroku**.
+
+5. **Desenvolvido com Tecnologias de Ponta**: A aplicação é desenvolvida com **Python** no backend, utilizando **Vue.js** para interfaces modernas e interativas, garantindo uma experiência de usuário fluida e eficiente.
+
+---
+
+### **Funcionalidades Principais**
+
+- Registro e acompanhamento de tratamentos capilares
+- Interface de fácil uso para monitoramento diário
+- Acesso offline no aplicativo mobile
+- Sincronização de dados entre dispositivos
+- Relatórios personalizados de progresso e saúde capilar
+- Integração com profissionais para recomendações personalizadas
+
+---
+
+### **Atualizações em Breve! 🚀**
+
+Estamos apenas começando! Novas funcionalidades e melhorias estão a caminho para tornar o **HelpHairProject** ainda mais poderoso. Entre as próximas atualizações, você pode esperar:
+
+- **Integração com IA** para recomendações inteligentes baseadas em seu histórico e objetivos de saúde capilar.
+- **Suporte Multilíngue**: A plataforma será expandida para atender usuários em vários idiomas.
+- **Funcionalidades Premium** para profissionais, incluindo agendamento de consultas e gerenciamento avançado de clientes.
+- **Ferramentas de Análise** para prever e monitorar o progresso de tratamentos capilares.
+- **Melhorias de Interface** para tornar a experiência do usuário ainda mais intuitiva e agradável.
+
+Fique atento às próximas atualizações e veja como o **HelpHairProject** pode transformar a forma como você cuida da saúde capilar!
+
+---
+
+### **Interessado? Junte-se a nós!**
+
+Estamos sempre abertos a feedbacks e sugestões! Se você quer contribuir com o projeto ou tem ideias para melhorar, sinta-se à vontade para entrar em contato ou abrir uma issue. Queremos construir uma plataforma que realmente faça a diferença na vida das pessoas, e você pode fazer parte disso!
+
+---
 
 ### Tecnologias Utilizadas
 
@@ -83,48 +132,5 @@ HelpHairProject/
     │   └── main.js           # Ponto de entrada
     └── quasar.conf.js        # Configuração do Quasar Framework
 ```
-
-### **Por que escolher o HelpHairProject?**
-
-1. **Acesso em Múltiplas Plataformas**: Com versões para web, dispositivos móveis (Android e iOS) e desktop, você pode acessar suas informações de saúde capilar a qualquer momento, em qualquer lugar.
-   
-2. **Gestão Personalizada de Dados de Saúde Capilar**: O sistema permite que os usuários acompanhem o progresso de seus cuidados capilares, registrem consultas e sigam recomendações personalizadas com base no histórico de saúde.
-
-3. **Plataforma para Profissionais**: Profissionais do setor capilar podem utilizar a ferramenta para acompanhar clientes, sugerir tratamentos e monitorar a evolução de cada caso de forma fácil e eficiente.
-
-4. **Segurança e Confiabilidade**: Utilizamos o **PostgreSQL** como banco de dados para garantir segurança e escalabilidade, tudo hospedado de forma confiável no **Heroku**.
-
-5. **Desenvolvido com Tecnologias de Ponta**: A aplicação é desenvolvida com **Python** no backend, utilizando **Vue.js** para interfaces modernas e interativas, garantindo uma experiência de usuário fluida e eficiente.
-
-### **Funcionalidades Principais**
-
-- Registro e acompanhamento de tratamentos capilares
-- Interface de fácil uso para monitoramento diário
-- Acesso offline no aplicativo mobile
-- Sincronização de dados entre dispositivos
-- Relatórios personalizados de progresso e saúde capilar
-- Integração com profissionais para recomendações personalizadas
-
----
-
-### **Atualizações em Breve! 🚀**
-
-Estamos apenas começando! Novas funcionalidades e melhorias estão a caminho para tornar o **HelpHairProject** ainda mais poderoso. Entre as próximas atualizações, você pode esperar:
-
-- **Integração com IA** para recomendações inteligentes baseadas em seu histórico e objetivos de saúde capilar.
-- **Suporte Multilíngue**: A plataforma será expandida para atender usuários em vários idiomas.
-- **Funcionalidades Premium** para profissionais, incluindo agendamento de consultas e gerenciamento avançado de clientes.
-- **Ferramentas de Análise** para prever e monitorar o progresso de tratamentos capilares.
-- **Melhorias de Interface** para tornar a experiência do usuário ainda mais intuitiva e agradável.
-
-Fique atento às próximas atualizações e veja como o **HelpHairProject** pode transformar a forma como você cuida da saúde capilar!
-
----
-
-### **Interessado? Junte-se a nós!**
-
-Estamos sempre abertos a feedbacks e sugestões! Se você quer contribuir com o projeto ou tem ideias para melhorar, sinta-se à vontade para entrar em contato ou abrir uma issue. Queremos construir uma plataforma que realmente faça a diferença na vida das pessoas, e você pode fazer parte disso!
-
----
 
 **Acompanhe nosso progresso** e fique atento às **novidades incríveis** que estão por vir!
